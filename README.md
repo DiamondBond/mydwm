@@ -1,4 +1,4 @@
-diamond's dwm - dynamic window manager build
+diamond's dwm (dynamic window manager) build
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
