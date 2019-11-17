@@ -1,0 +1,2 @@
+# mydwm
+personal dwm build
